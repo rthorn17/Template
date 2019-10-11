@@ -4,11 +4,11 @@
     "parameters": {
         "mgmtGroupParentId": {
             "type": "string",
-            "defaultValue": "/providers/Microsoft.Management/managementGroups/ARMMSP"
+            "defaultValue": "/providers/Microsoft.Management/managementGroups/contoso"
         },
         "mgmtGroupName": {
             "type": "string",
-            "defaultValue": "childARMMSP"
+            "defaultValue": "childcontoso"
         }
     },
     "resources": [
